@@ -13,6 +13,8 @@ handful of applications that matter, not the hundreds that don't.
 
 It has screened every weekly list across three planning authorities since
 mid-2026, for ancient woodland planning-watch volunteering.
+This repo was extracted from the private project it has run in every week since; the
+history before November 2026 lives there.
 
 ## What it does each week
 
