@@ -146,3 +146,7 @@ application numbers. No network needed.
 
 A flag means "look at this", not "object to this". The site plan, the officer's
 report and local knowledge decide that.
+
+## Licence
+
+GPL-3.0. Use it, change it, run it for your own group freely. If you share a changed version, share its code under the same licence.
