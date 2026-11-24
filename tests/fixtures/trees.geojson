@@ -1,0 +1,9 @@
+{
+  "type": "FeatureCollection",
+  "name": "synthetic_ancient_trees",
+  "crs": {"type": "name", "properties": {"name": "urn:ogc:def:crs:EPSG::27700"}},
+  "features": [
+    {"type": "Feature", "properties": {"status": "Veteran", "species": "Oak"}, "geometry": {"type": "Point", "coordinates": [352000, 490000]}},
+    {"type": "Feature", "properties": {"status": "Notable", "species": "Beech"}, "geometry": {"type": "Point", "coordinates": [353000, 490000]}}
+  ]
+}

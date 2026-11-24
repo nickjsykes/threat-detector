@@ -1,0 +1,10 @@
+app_no,address,proposal,easting,northing,status
+2026/9001/FPA,"1 Example Lane, Testville, ZZ1 1ZZ",Erection of single storey rear extension,350210,490100,
+2026/9002/FPA,"Old Barn, Sample Road, ZZ1 2ZZ",Erection of 25 dwellings with access,350235,490100,
+2026/9003/FPA,"Field House, Nowhere Lane, ZZ1 3ZZ",Erection of detached garage,350300,490100,
+2026/9004/LBC,"The Grange, Example Street, ZZ1 4ZZ",Listed building consent for replacement windows,350100,490100,
+2026/9005/FPA,"Hill Farm, Sample Fell, ZZ1 5ZZ",Erection of poultry building for 30000 birds,353000,490000,
+2026/9006/FPA,"2 Test Cottages, ZZ1 6ZZ",Erection of garden room,352010,490000,
+2026/9007/FPA,"Unknown Plot, ZZ1 7ZZ",Erection of a dwelling,,,
+2026/9008/FPA,"3 Example Lane, ZZ1 1ZZ",Erection of conservatory,350150,490150,Decided
+2026/9009/FPA,"Far Field, ZZ1 9ZZ",Erection of agricultural shed,360000,500000,

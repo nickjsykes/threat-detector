@@ -1,0 +1,24 @@
+[
+  {
+    "id": "wandf",
+    "name": "Westmorland & Furness (South Lakeland area)",
+    "type": "wandf_pdf",
+    "red_lines": true
+  },
+  {
+    "id": "southdowns",
+    "name": "South Downs National Park Authority",
+    "type": "idox",
+    "base_url": "https://planningpublicaccess.southdowns.gov.uk/online-applications",
+    "red_lines": true,
+    "verify_tls": false
+  },
+  {
+    "id": "newforest",
+    "name": "New Forest District Council",
+    "type": "idox",
+    "base_url": "https://planning.newforest.gov.uk/online-applications",
+    "red_lines": false,
+    "verify_tls": false
+  }
+]

@@ -1,0 +1,21 @@
+[project]
+name = "threatdetector"
+version = "1.0.0"
+description = "Screen weekly planning applications against ancient woodland and ancient trees."
+requires-python = ">=3.10"
+dependencies = ["requests>=2.31", "pypdf>=4.0"]
+
+[project.optional-dependencies]
+test = ["pytest"]
+
+[project.scripts]
+threatdetector = "threatdetector.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["threatdetector*"]
+
+[tool.setuptools.package-data]
+threatdetector = ["councils.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

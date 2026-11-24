@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "name": "synthetic_ancient_woodland",
+  "crs": {"type": "name", "properties": {"name": "urn:ogc:def:crs:EPSG::27700"}},
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"name": "Example Wood", "themname": "Ancient & Semi-Natural Woodland", "area": 4.0},
+      "geometry": {"type": "Polygon", "coordinates": [[[350000, 490000], [350200, 490000], [350200, 490200], [350000, 490200], [350000, 490000]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"name": "Sample Copse", "themname": "Ancient Replanted Woodland", "area": 1.0},
+      "geometry": {"type": "MultiPolygon", "coordinates": [[[[351000, 490000], [351100, 490000], [351100, 490100], [351000, 490100], [351000, 490000]]]]}
+    }
+  ]
+}
