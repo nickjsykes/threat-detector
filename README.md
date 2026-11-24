@@ -16,6 +16,9 @@ mid-2026, for ancient woodland planning-watch volunteering.
 This repo was extracted from the private project it has run in every week since; the
 history before November 2026 lives there.
 
+Since mid-2026 it has screened **2,245 applications** and flagged **20** as threats to ancient
+woodland.
+
 ## What it does each week
 
 1. **Fetches the weekly lists.** Westmorland & Furness (South Lakeland area)
